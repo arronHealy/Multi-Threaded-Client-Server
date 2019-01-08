@@ -1,0 +1,8 @@
+1 snapchat 2018-12-07T20:52:10.514 linux camera issue function not working Assigned
+2 iTunes 2018-12-07T20:52:10.514 MacOS email issues Closed
+3 Microsoft office 2018-12-07T20:52:10.514 Windows Microsoft office not working Assigned
+4 Microsoft visual studio 2018-12-07T20:52:10.514 linux trouble installing software Closed
+5 google maps 2018-12-16T15:24:16.234 linux map not showing in app Assigned
+6 fire fox 2019-01-07T17:02:12.529 linux database down - nosql database Open
+7 amazon alexa 2019-01-07T17:43:05.304 linux talking weird Open
+
